@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Supermarket_mvp.Views
 {
-    internal interface IPayModeView
+    internal interface IPayModeView 
     {
         string PayModeId { get; set; }
         string PayModeName { get; set; }
         string PayModeObservation { get; set; }
+
+
 
         string SearchValue { get; set; }
         bool IsEdit { get; set; }
@@ -26,5 +28,9 @@ namespace Supermarket_mvp.Views
 
         void SetPayModeListBildingSource(BindingSource payModelist);
         void Show();
+        
+
+   
+
     }
 }
