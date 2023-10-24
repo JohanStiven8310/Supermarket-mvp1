@@ -87,3 +87,5 @@ C:\Users\johan.quinonez\Downloads\Supermarker-main\obj\Debug\net7.0-windows\Supe
 C:\Users\johan.quinonez\Downloads\Supermarker-main\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
 C:\Users\johan.quinonez\Downloads\Supermarker-main\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
 C:\Users\johan.quinonez\Downloads\Supermarker-main\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CategorieView.resources
+C:\Users\johan.quinonez\Downloads\Supermarker-main\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProductView.resources
+C:\Users\johan.quinonez\Downloads\Supermarker-main\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProviderView.resources
