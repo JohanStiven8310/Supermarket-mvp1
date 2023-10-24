@@ -89,6 +89,7 @@ namespace Supermarket_mvp.Views
         public bool IsSuccessful
         {
             get { return IsSuccessful; }
+
             set { IsSuccessful = value; }
         }
         public string Message
